@@ -1,11 +1,3 @@
-#
-# This code is adapted from a programming course at 
-# Boston University for use in CPSC 317 at UBC
-#
-#
-# Version 1.0
-#
-
 
 CC     = gcc
 CFLAGS = -g -Wall

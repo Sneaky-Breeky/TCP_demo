@@ -1,19 +1,3 @@
-/************************************************************************
- * Adapted from a course at Boston University for use in CPSC 317 at UBC
- *
- *
- * The interfaces for the STCP sender (you get to implement them), and a
- * simple application-level routine to drive the sender.
- *
- * This routine reads the data to be transferred over the connection
- * from a file specified and invokes the STCP send functionality to
- * deliver the packets as an ordered sequence of datagrams.
- *
- * Version 2.0
- *
- *
- *************************************************************************/
-
 
 #include <assert.h>
 #include <fcntl.h>

@@ -1,9 +1,3 @@
-/*
- * Adapted from a course at Boston University for use in CPSC 317 at
- * UBC
- * 
- * Version 1.0
- */
 
 #include <unistd.h>
 #include <stdio.h>

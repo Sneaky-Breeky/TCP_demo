@@ -1,12 +1,4 @@
 
-/*
- * This code has been adapted from a course at Boston University
- * for use in CPSC 317 at UBC
- *
- * Version 2.0
- * 
- */
-
 #include "wraparound.h"
 
 /* 
