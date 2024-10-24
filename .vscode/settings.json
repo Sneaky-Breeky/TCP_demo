@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "log.h": "c",
+        "stcp.h": "c",
+        "wraparound.h": "c"
+    }
+}
